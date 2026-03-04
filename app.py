@@ -3,6 +3,7 @@ import pandas as pd
 import pickle
 import sklearn
 
+
 st.set_page_config(page_title="Cảnh Báo Học Vụ APP", layout="centered")
 st.title("Dự Đoán Cảnh Báo Học Vụ")
 # Load model
